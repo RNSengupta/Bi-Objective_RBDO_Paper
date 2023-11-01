@@ -1,19 +1,19 @@
-# Bi-Objective_RBDO_Paper
+# Bi-Objective Reliability Based Optimization: An Application to Investment Analysis
 
-Paper: Bi-Objective Reliability Based Portfolio Optimization Problems
+Paper: Bi-Objective Reliability Based Optimization: An Application to Investment Analysis
 
 Authors: Raghu Nandan SENGUPTA@,Aditya GUPTA#,Subhankar MUKHERJEE$,Gregor WEISS&
 
-@IME Department, Indian Institute of Technology Kanpur, INDIA, Email: raghus@iitk.ac.in
+@Department of Management Studies, Indian Institute of Technology Kanpur, INDIA, Email: raghus@iitk.ac.in
 
-#ICICI Lombard, Mumbai, INDIA, Email: aditya.gupta@icicilombard.com
+#McKinsey & Company Email: Aditya_Gupta-GUVA@mckinsey.com
 
-$IME Department, Indian Institute of Technology Kanpur, INDIA, Email: subhankar@iitk.ac.in
+$Department of Management Studies, Indian Institute of Technology Kanpur, INDIA, Email: subhankar@iitk.ac.in
 
 &Faculty of Economics and Management, Leipzig University, GERMANY, Email: weiss@wifa.uni-leipzig.de
 
 Files uploaded
 
-(01) EJOR_RNS_AG_SM_GW_Plan_of_Codes: General plan of running the codes
+(01) ANOR-D-22-01867_Plan_of_Codes: General plan of running the codes
 
-(02) SANB-D-21-00037_Pseudo_Code: General pseudo codes
+(02) ANOR-D-22-01867_Pseudo_Code: General pseudo codes
